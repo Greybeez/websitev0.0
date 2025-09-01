@@ -1,0 +1,235 @@
+{
+  "common": {
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "contactUs": "Contact Us",
+    "partnerWithUs": "Partner with Us",
+    "findTrainingJobs": "Find Training & Jobs",
+    "exploreOpportunities": "Explore Opportunities",
+    "startPartnership": "Start Partnership"
+  },
+  "header": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "programs": "Programs",
+    "jobParAI": "JobPar.ai",
+    "successStories": "Success Stories",
+    "news": "News",
+    "contact": "Contact",
+    "strapiTest": "Strapi Test"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Transforming Lives Through Skills",
+      "subtitle": "Empowering rural and tribal youth with market-ready skills for sustainable employment"
+    },
+    "slide2": {
+      "title": "Partner for Impact",
+      "subtitle": "Join leading companies in building sustainable workforce solutions for India's future"
+    },
+    "slide3": {
+      "title": "50,000+ Lives Transformed",
+      "subtitle": "Proven track record of creating lasting change through skills development and employment"
+    }
+  },
+  "impactHighlights": {
+    "title": "Measurable Impact",
+    "description": "Our commitment to transformation is reflected in the lives we've changed and partnerships we've built",
+    "livesTransformed": {
+      "number": "50,000+",
+      "label": "Lives Transformed",
+      "description": "Rural and tribal youth empowered with skills"
+    },
+    "partnerFactories": {
+      "number": "500+",
+      "label": "Partner Factories",
+      "description": "Leading companies trust our workforce solutions"
+    },
+    "placementRate": {
+      "number": "95%",
+      "label": "Placement Rate",
+      "description": "Exceptional success in job placement"
+    },
+    "averageSalary": {
+      "number": "₹15,000",
+      "label": "Average Salary",
+      "description": "Competitive wages for our graduates"
+    }
+  },
+  "aboutSection": {
+    "title": "Bridging the Skills Gap for India's Future",
+    "titleHighlight": "India's Future",
+    "paragraph1": "GreyBeez is a pioneering social enterprise dedicated to transforming lives through skills development and employment generation. We specialize in empowering rural and tribal youth with market-ready skills, creating sustainable employment opportunities that drive both individual growth and economic development.",
+    "feature1": "Comprehensive skills development programs",
+    "feature2": "Direct placement with leading manufacturers",
+    "feature3": "Ongoing career support and mentorship",
+    "feature4": "Focus on rural and tribal communities",
+    "learnMoreAboutUs": "Learn More About Us",
+    "viewSuccessStories": "View Success Stories",
+    "cardTitle": "Transforming Communities",
+    "cardDescription": "Our holistic approach ensures sustainable impact across rural India"
+  },
+  "programSpotlight": {
+    "title": "AMAS Program Spotlight",
+    "description": "Our flagship Aggregate Model for Skilling program provides comprehensive solutions for workforce development and employment generation",
+    "comprehensiveTraining": {
+      "title": "Comprehensive Training",
+      "description": "Industry-relevant skills training designed in partnership with leading manufacturers",
+      "feature1": "Technical skills development",
+      "feature2": "Soft skills enhancement",
+      "feature3": "Industry certifications"
+    },
+    "migrationSupport": {
+      "title": "Migration Support",
+      "description": "End-to-end support for safe and successful migration to employment opportunities",
+      "feature1": "Safe accommodation",
+      "feature2": "Local orientation",
+      "feature3": "Ongoing mentorship"
+    },
+    "careerGrowth": {
+      "title": "Career Growth",
+      "description": "Continuous support for career advancement and skill upgradation",
+      "feature1": "Performance tracking",
+      "feature2": "Advancement opportunities",
+      "feature3": "Leadership development"
+    }
+  },
+  "servicesSnapshot": {
+    "title": "Our Services",
+    "description": "End-to-end solutions for workforce development, from program design to impact measurement",
+    "programDesign": {
+      "title": "Program Design",
+      "description": "Custom-designed skilling programs tailored to industry requirements and local contexts",
+      "feature1": "Curriculum development",
+      "feature2": "Assessment frameworks",
+      "feature3": "Quality assurance"
+    },
+    "mobilizationStrategy": {
+      "title": "Mobilization Strategy",
+      "description": "Community-driven approach to identify and engage potential beneficiaries",
+      "feature1": "Community partnerships",
+      "feature2": "Awareness campaigns",
+      "feature3": "Candidate screening"
+    },
+    "monitoringEvaluation": {
+      "title": "Monitoring & Evaluation",
+      "description": "Comprehensive tracking and impact measurement throughout the program lifecycle",
+      "feature1": "Real-time tracking",
+      "feature2": "Impact assessment",
+      "feature3": "Continuous improvement"
+    },
+    "csrActivities": {
+      "title": "CSR Activities",
+      "description": "Comprehensive Corporate Social Responsibility programs that create measurable social impact",
+      "feature1": "Impact measurement",
+      "feature2": "Community development",
+      "feature3": "Sustainability reporting"
+    }
+  },
+  "testimonials": {
+    "title": "Success Stories",
+    "description": "Hear from our graduates and partners about the transformative impact of our programs",
+    "testimonial1": {
+      "name": "Priya Sharma",
+      "role": "Program Graduate",
+      "location": "Jharkhand",
+      "content": "GreyBeez transformed my life completely. From a small village to working in a top manufacturing company, the journey has been incredible. The training and support were exceptional.",
+      "type": "Graduate"
+    },
+    "testimonial2": {
+      "name": "Rajesh Kumar",
+      "role": "HR Director",
+      "company": "Manufacturing Corp",
+      "content": "Partnering with GreyBeez has been game-changing for our workforce needs. Their candidates are well-trained, motivated, and ready to contribute from day one.",
+      "type": "Partner"
+    },
+    "testimonial3": {
+      "name": "Sunita Devi",
+      "role": "Program Graduate",
+      "location": "Odisha",
+      "content": "The migration support and ongoing mentorship made all the difference. I now have a stable job and can support my family while pursuing further career growth.",
+      "type": "Graduate"
+    }
+  },
+  "latestNews": {
+    "title": "Latest News",
+    "description": "Stay updated with our latest initiatives, partnerships, and success stories",
+    "viewAllNews": "View All News",
+    "news1": {
+      "title": "New Partnership with Leading Automotive Manufacturer",
+      "excerpt": "GreyBeez announces strategic partnership to train 2,000 youth for automotive sector opportunities across three states.",
+      "date": "March 15, 2025",
+      "category": "Partnership"
+    },
+    "news2": {
+      "title": "Rural Youth Skilling Initiative Wins National Award",
+      "excerpt": "Our innovative approach to rural skilling recognized with the National Social Impact Award for Excellence in Workforce Development.",
+      "date": "March 10, 2025",
+      "category": "Recognition"
+    },
+    "news3": {
+      "title": "Expansion to Northeast India: New Training Centers",
+      "excerpt": "Opening state-of-the-art training facilities in Assam and Meghalaya to serve tribal communities with specialized programs.",
+      "date": "March 5, 2025",
+      "category": "Expansion"
+    }
+  },
+  "finalCTA": {
+    "title": "Ready to Transform Lives?",
+    "description": "Join us in creating sustainable employment opportunities and building a skilled workforce for India's future",
+    "b2c": {
+      "title": "Looking for Training & Jobs?",
+      "description": "Discover comprehensive skills training programs designed to secure your future with leading employers"
+    },
+    "b2b": {
+      "title": "Partner with Us",
+      "description": "Build a reliable, skilled workforce through our proven training and placement programs"
+    },
+    "successCount": "Join {{count}} success stories and counting"
+  },
+  "footer": {
+    "companyInfo": "Transforming lives through skills development and employment generation for rural and tribal youth across India.",
+    "quickLinks": "Quick Links",
+    "aboutUs": "About Us",
+    "programs": "Programs",
+    "successStories": "Success Stories",
+    "news": "News",
+    "contact": "Contact",
+    "services": "Services",
+    "skillsTraining": "Skills Training",
+    "jobPlacement": "Job Placement",
+    "migrationSupport": "Migration Support",
+    "careerMentoring": "Career Mentoring",
+    "partnerSolutions": "Partner Solutions",
+    "csrActivities": "CSR Activities",
+    "contactUsTitle": "Contact Us",
+    "email": "contact@greybeez.org",
+    "phone": "+91 98765 43210",
+    "address": "123 Innovation Hub, Tech City,\nBangalore, Karnataka 560001",
+    "copyright": "© {{year}} GreyBeez. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "languageSwitcher": {
+    "selectLanguage": "Select Language",
+    "english": "English",
+    "hindi": "हिंदी",
+    "bengali": "বাংলা",
+    "oriya": "ଓଡ଼ିଆ"
+  },
+  "partnerLogos": {
+    "title": "Trusted by Leading Companies",
+    "description": "We partner with India's most respected brands to create sustainable employment opportunities",
+    "stats": {
+      "factories": "Partner Factories",
+      "brands": "Leading Brands",
+      "states": "States Covered",
+      "years": "Years Experience"
+    }
+  },
+  "strapiTestPage": {
+    "title": "Strapi Integration Test",
+    "description": "This page demonstrates dynamic content loading, simulating data fetched from a Strapi CMS instance."
+  }
+}
